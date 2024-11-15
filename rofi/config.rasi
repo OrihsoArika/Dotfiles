@@ -1,0 +1,4 @@
+configuration{
+    //xd
+  }
+@theme "~/.config/rofi/rose-pine.rasi"
